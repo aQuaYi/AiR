@@ -1,7 +1,8 @@
 [package]
-name = "AiR"
+name = "airs"
 license = "MIT"
 version = "0.1.0"
+description = "Algorithm in Rust"
 authors = ["aQua <hi@aQuaYi.com>"]
 edition = "2018"
 
