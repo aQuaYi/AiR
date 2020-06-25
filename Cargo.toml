@@ -1,7 +1,8 @@
 [package]
 name = "AiR"
+license = "MIT"
 version = "0.1.0"
-authors = ["aQua <6028869+aQuaYi@users.noreply.github.com>"]
+authors = ["aQua <hi@aQuaYi.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
