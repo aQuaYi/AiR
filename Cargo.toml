@@ -3,7 +3,7 @@ name = "airs"
 license = "MIT"
 version = "0.1.0"
 description = "Algorithm in Rust"
-repository = "https://github.com/aQuaYi/AiR"
+repository = "https://github.com/aQuaYi/AiR/"
 authors = ["aQua <hi@aQuaYi.com>"]
 edition = "2018"
 
